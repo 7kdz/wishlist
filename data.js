@@ -60,8 +60,40 @@ const PRODUCTOS = [
         imagen: 'https://glauser.vteximg.com.br/arquivos/ids/182190/T006.407.11.033.03.jpg?v=638418085948000000',
         link: 'https://www.glauser.com.co/reloj-tissot-le-locle-powermatic-80-t0064071103303-t0064071103303/p'
     },
-      {
+    {
         id: 6,
+        nombre: 'Gafas De Sol Sutro Lite Oakley Oo9463946313 Color Gris',
+        precio: 776000,
+        categoria: 'mercadolibre',
+        imagen: 'https://http2.mlstatic.com/D_NQ_NP_2X_623752-MLA95665027449_102025-F.webp',
+        link: 'https://www.mercadolibre.com.co/p/MCO21466616?pdp_filters=item_id%3AMCO1426948541#polycard_client=cart_list&wid=MCO1426948541&sid=cart'
+    },
+    {
+        id: 7,
+        nombre: 'Gafas De Sol Sutro Lite Oakley Oo9471 Hombre Originales Color Gris',
+        precio: 972000,
+        categoria: 'mercadolibre',
+        imagen: 'https://http2.mlstatic.com/D_NQ_NP_2X_834753-MLA99987822809_112025-F.webp',
+        link: 'https://www.mercadolibre.com.co/gafas-de-sol-oakley-oo9471-hombre-originales-color-gris/p/MCO22593591?pdp_filters=item_id%3AMCO2162323552&quantity=2&offer_type=BEST_INSTALLMENTS'
+    },
+          {
+        id: 8,
+        nombre: 'Maleta Deportiva Linear Mediana',
+        precio: 180000,
+        categoria: 'adidas',
+        imagen: 'https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/8465ee32fd7e40d49877ab81f5f738f3_9366/Maleta_Deportiva_Linear_Mediana_Negro_JD9555_01_00_standard.jpg',
+        link: 'https://www.adidas.co/maleta-deportiva-linear-mediana/JD9555.html?pr=product_rr&slot=4&rec=ds'
+      },
+    {
+        id: 9,
+        nombre: 'Guayos F50 League Lamine Yamal Sin Cordones Terreno Firme',
+        precio: 550000,
+        categoria: 'adidas',
+        imagen: 'https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/a0827a873eac4b80bbe3eb2e83bbfe34_9366/Guayos_F50_League_Lamine_Yamal_Sin_Cordones_Terreno_Firme-Multiterreno_Blanco_KJ3781_22_model.jpg',
+        link: 'https://www.adidas.co/guayos-f50-league-lamine-yamal-sin-cordones-terreno-firme-multiterreno/KJ3781.html?forceSelSize=KJ3781_640'
+    },
+      {
+        id: 10,
         nombre: 'Nike Pegasus 42',
         precio: 800000,
         categoria: 'nike',
@@ -69,7 +101,7 @@ const PRODUCTOS = [
         link: 'https://www.nike.com.co/nike-pegasus-42-calzado-de-correr-para-hombre-ib1873-001-tu6/p'
       },
       {
-        id: 7,
+        id: 11,
         nombre: 'Nike Structure 26',
         precio: 800000,
         categoria: 'nike',
@@ -77,11 +109,19 @@ const PRODUCTOS = [
         link: 'https://www.nike.com.co/nike-structure-26-calzado-correr-hombre-hj1102-115-tu6/p'
       },
       {
-        id: 8,
+        id: 12,
         nombre: 'Nike Structure Plus',
         precio: 950000,
         categoria: 'nike',
         imagen: 'https://nikeco.vtexassets.com/arquivos/ids/949079-1200-auto?v=639029669669000000&width=1200&height=auto&aspect=true',
         link: 'https://www.nike.com.co/nike-structure-plus-hq3048-001-tp6/p?skuId=82357'
-      }
+      },
+        {
+        id: 13,
+        nombre: 'Closet (Relleno)',
+        precio: 12000000,
+        categoria: 'unknown',
+        imagen: 'https://http2.mlstatic.com/D_NQ_NP_2X_736103-MCO97519707232_112025-F.webp',
+        link: 'https://www.mercadolibre.com.co/closet-siruela-200-milan-y-wengue--gran-almacenamiento/up/MCOU3558177998#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_system_org&reco_model=coldstart_low_exposition&reco_client=pdp-v2p&reco_item_pos=1&reco_backend_type=low_level&reco_id=02be40ff-9a56-45fb-a385-ef9bdd779f1c&wid=MCO1727581517&sid=recos'
+    },
 ];
