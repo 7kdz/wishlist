@@ -76,24 +76,8 @@ const PRODUCTOS = [
         imagen: 'https://http2.mlstatic.com/D_NQ_NP_2X_834753-MLA99987822809_112025-F.webp',
         link: 'https://www.mercadolibre.com.co/gafas-de-sol-oakley-oo9471-hombre-originales-color-gris/p/MCO22593591?pdp_filters=item_id%3AMCO2162323552&quantity=2&offer_type=BEST_INSTALLMENTS'
     },
-          {
-        id: 8,
-        nombre: 'Maleta Deportiva Linear Mediana',
-        precio: 180000,
-        categoria: 'adidas',
-        imagen: 'https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/8465ee32fd7e40d49877ab81f5f738f3_9366/Maleta_Deportiva_Linear_Mediana_Negro_JD9555_01_00_standard.jpg',
-        link: 'https://www.adidas.co/maleta-deportiva-linear-mediana/JD9555.html?pr=product_rr&slot=4&rec=ds'
-      },
-    {
-        id: 9,
-        nombre: 'Guayos F50 League Lamine Yamal Sin Cordones Terreno Firme',
-        precio: 550000,
-        categoria: 'adidas',
-        imagen: 'https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/a0827a873eac4b80bbe3eb2e83bbfe34_9366/Guayos_F50_League_Lamine_Yamal_Sin_Cordones_Terreno_Firme-Multiterreno_Blanco_KJ3781_22_model.jpg',
-        link: 'https://www.adidas.co/guayos-f50-league-lamine-yamal-sin-cordones-terreno-firme-multiterreno/KJ3781.html?forceSelSize=KJ3781_640'
-    },
       {
-        id: 10,
+        id: 8,
         nombre: 'Nike Pegasus 42',
         precio: 800000,
         categoria: 'nike',
@@ -101,7 +85,7 @@ const PRODUCTOS = [
         link: 'https://www.nike.com.co/nike-pegasus-42-calzado-de-correr-para-hombre-ib1873-001-tu6/p'
       },
       {
-        id: 11,
+        id: 9,
         nombre: 'Nike Structure 26',
         precio: 800000,
         categoria: 'nike',
@@ -109,7 +93,7 @@ const PRODUCTOS = [
         link: 'https://www.nike.com.co/nike-structure-26-calzado-correr-hombre-hj1102-115-tu6/p'
       },
       {
-        id: 12,
+        id: 10,
         nombre: 'Nike Structure Plus',
         precio: 950000,
         categoria: 'nike',
@@ -117,7 +101,7 @@ const PRODUCTOS = [
         link: 'https://www.nike.com.co/nike-structure-plus-hq3048-001-tp6/p?skuId=82357'
       },
         {
-        id: 13,
+        id: 11,
         nombre: 'Closet (Relleno)',
         precio: 12000000,
         categoria: 'unknown',
